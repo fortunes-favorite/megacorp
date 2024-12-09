@@ -1,3 +1,4 @@
 partner list
-SalesInc
+some changes
+new
 TheStartup
